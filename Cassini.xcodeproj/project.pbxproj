@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		39448D9A230BB32500B18315 /* CassiniViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39448D99230BB32500B18315 /* CassiniViewController.swift */; };
-		39448D9C230BB83B00B18315 /* lecture12_multithreading in Resources */ = {isa = PBXBuildFile; fileRef = 39448D9B230BB83B00B18315 /* lecture12_multithreading */; };
 		39B25DB7230975A400072C1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B25DB6230975A400072C1E /* AppDelegate.swift */; };
 		39B25DBC230975A400072C1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39B25DBA230975A400072C1E /* Main.storyboard */; };
 		39B25DBE230975A500072C1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39B25DBD230975A500072C1E /* Assets.xcassets */; };
@@ -20,7 +19,6 @@
 
 /* Begin PBXFileReference section */
 		39448D99230BB32500B18315 /* CassiniViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CassiniViewController.swift; sourceTree = "<group>"; };
-		39448D9B230BB83B00B18315 /* lecture12_multithreading */ = {isa = PBXFileReference; lastKnownFileType = folder; path = lecture12_multithreading; sourceTree = "<group>"; };
 		39B25DB3230975A400072C1E /* Cassini.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cassini.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39B25DB6230975A400072C1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		39B25DBB230975A400072C1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +44,6 @@
 		39B25DAA230975A400072C1E = {
 			isa = PBXGroup;
 			children = (
-				39448D9B230BB83B00B18315 /* lecture12_multithreading */,
 				39B25DB5230975A400072C1E /* Cassini */,
 				39B25DB4230975A400072C1E /* Products */,
 			);
@@ -146,7 +143,6 @@
 				39B25DCE230A409B00072C1E /* oval.jpg in Resources */,
 				39B25DBE230975A500072C1E /* Assets.xcassets in Resources */,
 				39B25DBC230975A400072C1E /* Main.storyboard in Resources */,
-				39448D9C230BB83B00B18315 /* lecture12_multithreading in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
